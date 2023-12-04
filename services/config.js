@@ -10,12 +10,12 @@ import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
     apiKey: "AIzaSyB1ndMNnFOIwW_hGjoYUvKpitCbRoey1po",
-    authDomain: "food-app-2146c.firebaseapp.com",
-    projectId: "food-app-2146c",
-    storageBucket: "food-app-2146c.appspot.com",
-    messagingSenderId: "134684766946",
-    appId: "1:134684766946:web:3a6630ace7ab6b5beae4bb",
-    measurementId: "G-1ZF1W5WX3R"
+  authDomain: "food-app-2146c.firebaseapp.com",
+  projectId: "food-app-2146c",
+  storageBucket: "food-app-2146c.appspot.com",
+  messagingSenderId: "134684766946",
+  appId: "1:134684766946:web:3a6630ace7ab6b5beae4bb",
+  measurementId: "G-1ZF1W5WX3R"
 }
 if (!firebase.apps.length) {
     firebase.initializeApp(firebaseConfig);
