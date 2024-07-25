@@ -23,16 +23,10 @@ Recipe Database:
 
 - Allow consumers to alter meal plans in accordance with their tastes and dietary requirements.
 
-## Developers
-- Amatos ,Elmar Anthony D.
+## Developer
+Bañez, James D.
 
-- Bañez, James D.
 
-- Garcia, Anthony Elijah B.
-
-- Rivera, Charles Benedict G.
-
-- Villasan, John Michael E.
 
 ## Document links
 - [Google Docs](https://docs.google.com/document/d/1QgGxLL16hAd8iqzAlFyiCwMU1uEPizL6uY66fyZ3zcg/edit?usp=sharing)
